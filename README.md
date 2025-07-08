@@ -51,5 +51,7 @@ The hardware structure is illustrated below:
 
 
 ## Acknowledgments
-Special thanks to NxtPx4 for providing an excellent mini flight controller.
-Gratitude to all contributors: Huidong Wang, Xingxunn  Dong, Minghe Chen, and Rongpei Dai.
+
+When designing, we referred to the [super-hardware](https://github.com/hku-mars/SUPER-Hardware), [UniQuad](https://github.com/HKUST-Aerial-Robotics/UniQuad), [Fast-Drone-250](https://github.com/ZJU-FAST-Lab/Fast-Drone-250) projects and would like to express our sincere gratitude for this.
+
+Gratitude to all contributors: Huidong Wang, Xingxunn  Liu, Shaojie Li.
