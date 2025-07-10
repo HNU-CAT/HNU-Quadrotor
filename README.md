@@ -6,11 +6,15 @@
     <img src="./figs/cover.png" width="600">
     <figcaption>Three drones flying in the wild</figcaption>
 </figure>
+
+
 <figure>
     <img src="./figs/cover2.jpg" width="600">
     <figcaption>Design of the first generation of drones</figcaption>
 </figure>
 
+
+**Author：**[WHDworld](https://github.com/WHDworld), [XXLiu-HNU](https://github.com/XXLiu-HNU)
 
 ## Provided Materials
 
