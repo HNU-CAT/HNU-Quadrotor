@@ -59,3 +59,7 @@ The hardware structure is illustrated below:
 When designing, we referred to the [super-hardware](https://github.com/hku-mars/SUPER-Hardware), [UniQuad](https://github.com/HKUST-Aerial-Robotics/UniQuad), [Fast-Drone-250](https://github.com/ZJU-FAST-Lab/Fast-Drone-250) projects and would like to express our sincere gratitude for this.
 
 Gratitude to all contributors: Huidong Wang, Xingxun  Liu, Shaojie Li.
+
+## Contact Us
+
+If you have any questions about hardware or any other questions you want to consult, please contact us: liuxingxun@hnu.edu.cn
