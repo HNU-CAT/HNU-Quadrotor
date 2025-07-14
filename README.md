@@ -13,6 +13,11 @@
     <figcaption>Design of the first generation of drones</figcaption>
 </figure>
 
+<figure>
+    <img src="./figs/DSC00054.JPG" width="600">
+    <figcaption>>Four drones flying indoors</figcaption>
+</figure>
+
 
 **Author：**[WHDworld](https://github.com/WHDworld), [XXLiu-HNU](https://github.com/XXLiu-HNU)
 
