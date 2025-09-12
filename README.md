@@ -33,6 +33,7 @@ We provide the following resources:
 | Battery compartment   | <img src="./figs/Battery compartment.png" width="300"> |
 | Top view              | <img src="./figs/top.png" width="300">               |
 | Mounting plate        | <img src="./figs/Mounting Plate.png" width="300">    |
+| LiDAR installation        | <img src="./figs/lidar.jpg" width="300">    |
 
 ## Hardware Breakdown
 
