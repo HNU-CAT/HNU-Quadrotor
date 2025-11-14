@@ -40,6 +40,7 @@ We provide the following resources:
 The hardware structure is illustrated below:
 
 ![](./figs/hardware.png)
+![](./figs/hardware2.png)
 
 
 ![](./figs/gif.gif)
@@ -59,6 +60,10 @@ The hardware structure is illustrated below:
 | RC                   | Radiolink AT9S                |
 | Receiver             | Radiolink R12DSM              |
 
+## Use NUC as Onboard Computer
+If you want to use the NUC as an onboard computer, you only need to install an additional top plate.
+
+![](./figs/NUC.jpg)
 
 ## Acknowledgments
 
