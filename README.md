@@ -65,6 +65,20 @@ If you want to use the NUC as an onboard computer, you only need to install an a
 
 ![](./figs/NUC.jpg)
 
+## Optional sensor
+
+To enhance flight stability and safety, especially in complex environments, we support the integration of additional sensors.
+
+Optical Flow Sensor
+We highly recommend adding an Optical Flow Sensor (e.g.,MTF-01) to the bottom of the airframe.
+
+Safety Backup: In scenarios where primary positioning (GPS or LiDAR-SLAM) is lost or degrades, the optical flow sensor provides high-frequency velocity feedback.
+
+Fly-away Prevention: This ensures the drone can maintain a stable hover and prevents the aircraft from drifting or "flying away" due to state estimation failure.
+
+<img width="597" alt="Optional sensor layout" src="https://github.com/user-attachments/assets/07b2126a-7ae3-4f26-aac2-de5a010a9963" />
+
+
 ## Acknowledgments
 
 When designing, we referred to the [super-hardware](https://github.com/hku-mars/SUPER-Hardware), [UniQuad](https://github.com/HKUST-Aerial-Robotics/UniQuad), [Fast-Drone-250](https://github.com/ZJU-FAST-Lab/Fast-Drone-250) projects and would like to express our sincere gratitude for this.
